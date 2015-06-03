@@ -1,5 +1,9 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
+#Prerequisites:
+# Recommended host operating system: Ubuntu 14.04 LTS
+# vagrant 1.7.2 or newer
+# Virtualbox 4.3.28 or newer
 
 ipythonPort = 8001                 # Ipython port to forward (also set in IPython notebook config)
 
